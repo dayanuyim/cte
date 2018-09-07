@@ -1,0 +1,22 @@
+{
+  "name": "capture-the-ether",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fuzz.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ethereum-tx-decoder": "^2.0.1",
+    "ethereumjs-tx": "^1.3.7",
+    "ethereumjs-util": "^5.2.0",
+    "ethjs-account": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
